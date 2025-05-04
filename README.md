@@ -10,6 +10,7 @@ Python разработчик
 
 
 ## 🛠️ Мои технологии:
+![Tiled](https://img.shields.io/badge/-Tiled-005B9A?style=flat&logoColor=white)
 ![Pygame](https://img.shields.io/badge/-Pygame-222222?style=flat&logo=pygame&logoColor=white)
 ![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)
 ![Aiogram](https://img.shields.io/badge/-Aiogram-2CA5E0?style=flat&logo=python&logoColor=white)
