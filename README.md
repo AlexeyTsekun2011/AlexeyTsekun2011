@@ -27,14 +27,13 @@ Python разработчик
    
 ![Демо](Снимок экрана 2025-05-04 202818.png)
    
-Link:https://github.com/AlexeyTsekun2011/Platformer
+🔗 Link: [Platformer](https://github.com/AlexeyTsekun2011/Platformer)
 
 📌 Flappy bird 
    
 ![Демо](Снимок экрана 2025-05-04 202800.png)
    
-Link:https://github.com/AlexeyTsekun2011/Platformer
-
+🔗 Link: [Flappy Bird](https://github.com/AlexeyTsekun2011/Flappy-Bird)
 
 
 ---
