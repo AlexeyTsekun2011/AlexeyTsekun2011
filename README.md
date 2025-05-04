@@ -10,7 +10,9 @@ Python разработчик
 
 
 ## 🛠️ Мои технологии:
-
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,pygame,git,vscode,linux" />
+</p>
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![Pygame](https://img.shields.io/badge/-Pygame-3766AB?style=flat&logo=pygame)
 ![Aiogram](https://img.shields.io/badge/-Aiogram-2CA5E0?style=flat)
