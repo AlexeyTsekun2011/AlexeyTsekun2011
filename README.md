@@ -10,14 +10,11 @@ Python разработчик
 
 
 ## 🛠️ Мои технологии:
+![Aiogram](https://img.shields.io/badge/-Aiogram-2CA5E0?style=flat)
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,redis,html,pycharm,windows" />
 </p>
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![Pygame](https://img.shields.io/badge/-Pygame-3766AB?style=flat&logo=pygame)
-![Aiogram](https://img.shields.io/badge/-Aiogram-2CA5E0?style=flat)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)
+
 
 ## 📈 GitHub Статистика
 
