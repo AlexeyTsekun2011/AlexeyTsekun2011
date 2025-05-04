@@ -10,7 +10,9 @@ Python разработчик
 
 
 ## 🛠️ Мои технологии:
-![Aiogram](https://img.shields.io/badge/-Aiogram-2CA5E0?style=flat)
+![Pygame](https://img.shields.io/badge/-Pygame-222222?style=flat&logo=pygame&logoColor=white)
+![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)
+![Aiogram](https://img.shields.io/badge/-Aiogram-2CA5E0?style=flat&logo=python&logoColor=white)
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,redis,html,pycharm,windows" />
 </p>
