@@ -11,7 +11,7 @@ Python разработчик
 
 ## 🛠️ Мои технологии:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,gameengine,html,pycharm,windows" />
+  <img src="https://skillicons.dev/icons?i=python,redis,html,pycharm,windows" />
 </p>
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![Pygame](https://img.shields.io/badge/-Pygame-3766AB?style=flat&logo=pygame)
