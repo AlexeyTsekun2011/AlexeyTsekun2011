@@ -5,6 +5,7 @@
 # Привет! 👋 Меня зовут Алексей
 
 Python разработчик
+🔗CodeWars: https://www.codewars.com/users/AlexeyTsekun2011
 
 - 🌱 Изучаю: Pygame, Aiogram 3, Python 3.12
 
