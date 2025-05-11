@@ -23,9 +23,8 @@ Python разработчик
 ![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)
 ![Aiogram](https://img.shields.io/badge/-Aiogram-2CA5E0?style=flat&logo=python&logoColor=white)
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,redis,html,pycharm,windows" />
+  <img src="https://skillicons.dev/icons?i=python,redis,html,pycharm,windows,git" />
 </p>
-
 
 ## 📈 GitHub Статистика
 
