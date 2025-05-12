@@ -33,10 +33,10 @@ Python разработчик
 
 
 
-## 🧩 LeetCode Stats
+## 🧩 LeetCode Статистика
 ![LeetCode Stats](https://leetcard.jacoblin.cool/alexeytsekun2011)
 
-## 🧪 Codewars Stats
+## 🧪 Codewars статистика
 
 ![Codewars Stats](https://github-readme-codewars-stats.vercel.app/api/?username=AlexeyTsekun2011)
 
