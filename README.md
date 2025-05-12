@@ -51,7 +51,7 @@ Python разработчик
 
 ![Демо](telegramid.png)
 
-🔗 Link: [Get Telegram ID]((https://github.com/AlexeyTsekun2011/Get_telegram_id)) 
+🔗 Link: [Get Telegram ID](https://github.com/AlexeyTsekun2011/Get_telegram_id)
 
 
 📌English Study Bot
