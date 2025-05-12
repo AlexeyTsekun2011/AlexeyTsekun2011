@@ -32,6 +32,8 @@ Python разработчик
 
 ## 🖼️ Проекты
 
+# 🎮🕹️👾 Игры
+
 📌 Platformer
    
 ![Демо](Platformerdemo.png)
@@ -44,8 +46,20 @@ Python разработчик
    
 🔗 Link: [Flappy Bird](https://github.com/AlexeyTsekun2011/Flappy-Bird)
 
+# Telegram боты
+📌Get Telegram ID
 
----
+![Демо](telegramid.png)
+
+🔗 Link: [Get Telegram ID]((https://github.com/AlexeyTsekun2011/Get_telegram_id)) 
+
+
+📌English Study Bot
+
+![Демо](EnglishStudy.png)
+
+🔗 Link: [Flappy Bird](https://github.com/AlexeyTsekun2011/EnglishEducationBot)
+
 
 ## 📄 Лицензия
 
