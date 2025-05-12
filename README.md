@@ -34,7 +34,11 @@ Python разработчик
 
 ![Codewars Stats](https://github-readme-codewars-stats.vercel.app/api/?username=AlexeyTsekun2011)
 
+## 🧩 LeetCode Stats
+![LeetCode Stats](https://leetcard.jacoblin.cool/alexeytsekun2011)
 
+## 🧪 Codewars Stats
+![Codewars Stats](https://github-readme-codewars-stats.vercel.app/api/?username=AlexeyTsekun2011)
 
 
 ## 🖼️ Проекты
