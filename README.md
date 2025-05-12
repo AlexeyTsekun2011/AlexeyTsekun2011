@@ -30,6 +30,13 @@ Python разработчик
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlexeyTsekun2011&show_icons=true&theme=default)
 
+
+
+![Codewars Stats](https://github-readme-codewars-stats.vercel.app/api/?username=AlexeyTsekun2011)
+
+
+
+
 ## 🖼️ Проекты
 
 # 🎮🕹️👾 Игры
