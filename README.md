@@ -72,7 +72,7 @@ Python разработчик
 
 ![Демо](EnglishStudy.png)
 
-🔗 Link: [Flappy Bird](https://github.com/AlexeyTsekun2011/EnglishEducationBot)
+🔗 Link: [English Study](https://github.com/AlexeyTsekun2011/EnglishEducationBot)
 
 
 ## 📄 Лицензия
